@@ -6,7 +6,7 @@ SubScrape is a penetration testing and red teaming tool that automates the proce
 
 Clone the GitHub repository
 ```
-git clone https://github.com/jamesm0rr1s/Passive-Subdomain-Scraper /opt/jamesm0rr1s/Passive-Subdomain-Scraper
+git clone https://github.com/centralinfosec/Passive-Subdomain-Scraper /opt/Central-InfoSec/Passive-Subdomain-Scraper
 ```
 
 ## Requirements
@@ -21,7 +21,7 @@ pip install colorama
 
 Scrape subdomains by running the following command:
 ```
-python /opt/jamesm0rr1s/Passive-Subdomain-Scraper/SubScrape.py
+python /opt/Central-InfoSec/Passive-Subdomain-Scraper/SubScrape.py
 ```
 
 ## Example Screenshot of Usage
